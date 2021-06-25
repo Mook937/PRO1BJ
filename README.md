@@ -7,5 +7,7 @@ and adhears to all the rules.
 
 I used JavaScript, HTML, CSS to make this file. 
 
+This is the link to my game: https://mook937.github.io/PRO1BJ/
+
 
 I plan on incorperating betting and displaying the physical cards. 
